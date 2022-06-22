@@ -28,7 +28,7 @@ public class StudentController {
         System.out.print("Get / ");
         return "index";
     }
- 
+    //adding new line by srikanth
     @GetMapping("/new")
     public String add(Model model) {
         model.addAttribute("student", new student());
