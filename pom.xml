@@ -8,6 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	// Adding new line to check the github @Venky
 	<groupId>com.example</groupId>
 	<artifactId>StudentCrud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
